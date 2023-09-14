@@ -18,7 +18,3 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
     argocd/app-name: sysstatus
-spec:
-  type: library
-  owner: CNCF
-  lifecycle: experimental
